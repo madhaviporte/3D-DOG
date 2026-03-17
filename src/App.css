@@ -359,6 +359,7 @@ main:has(#section-2 .title[img-title ="opera"]:hover) .images #opera{
       h1 {
         text-align: left;
         font-size: 5.5rem;
+        line-height: 1rem;
       }
     }
 
@@ -457,7 +458,7 @@ main:has(#section-2 .title[img-title ="opera"]:hover) .images #opera{
       padding: 1rem;
 
       svg {
-        max-width: 3rem;
+        max-width: 5rem;
       }
 
       .nav-elem:nth-child(2) {
@@ -469,14 +470,14 @@ main:has(#section-2 .title[img-title ="opera"]:hover) .images #opera{
     .middle {
 
       h1 {
-        font-size: 2.5rem;
+        font-size: 4rem;
         line-height: 1;
       }
 
     }
 
     .bottom .right p {
-      font-size: 0.8rem;
+      font-size: 0.9rem;
     }
 
   }
@@ -510,10 +511,11 @@ main:has(#section-2 .title[img-title ="opera"]:hover) .images #opera{
 
   #section-3 {
 
-    padding-inline: 1.5rem;
+    padding-inline: 0.5rem;
 
     h3 {
-      font-size: 1.6rem;
+      font-size: 1.5rem;
+      
     }
 
   }
