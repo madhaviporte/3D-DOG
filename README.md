@@ -6,9 +6,9 @@ This is a 3D web project I built using React to explore how 3D models and animat
 
 In this project, a 3D dog model is rendered with smooth animations directly in the browser. The focus was not just on showing a model, but on creating a clean and interactive experience.
 
-I worked on handling camera angles, lighting, and positioning so that the model looks natural and smooth while interacting. I also made sure the project works properly across different screen sizes, so the experience stays consistent on mobile, tablet, and desktop.
+I worked on camera angles, lighting, and positioning so the model looks natural and smooth. I also made sure the website is fully responsive, so it works properly on mobile, tablet, and desktop.
 
-The project is deployed online, so anyone can access and experience the 3D animation without installing anything.
+This project is deployed online, so anyone can access and experience it easily.
 
 ## 🌐 Live Demo
 
@@ -20,7 +20,7 @@ The project is deployed online, so anyone can access and experience the 3D anima
 - Three.js  
 - @react-three/fiber  
 - @react-three/drei  
-- Vercel (for deployment)
+- Vercel  
 
 ## ✨ Features
 
@@ -29,16 +29,18 @@ The project is deployed online, so anyone can access and experience the 3D anima
 - Fully responsive across devices  
 - Clean and minimal UI  
 - Fast loading and optimized performance  
-- Deployed and accessible online  
+- Live deployed project  
 
 ## 📦 Installation
 
 To run this project locally:
+
+```bash
 git clone https://github.com/madhaviporte/3D-DOG.git
 cd 3D-DOG
 npm install
 npm run dev
-  
+```
 
 ## 💡 What I Learned
 
@@ -52,13 +54,13 @@ While building this project, I learned:
 
 ## 🚀 Future Improvements
 
-- Add more interactions (hover / click animations)  
+- Add more interactions (hover / click effects)  
 - Multiple 3D models or scenes  
-- Better controls for user interaction  
-- Sound effects for more immersive experience  
+- Better user controls  
+- Add sound effects for better experience  
 
 ## 🙌 Final Thoughts
 
 This project was a great learning experience for me because it pushed me beyond traditional frontend development. Working with 3D gave me a new perspective on how creative web development can be.
 
-I’m definitely planning to build more projects like this and explore advanced 3D concepts in the future.
+I’m excited to explore more and build even better interactive projects in the future.
