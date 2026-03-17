@@ -1,16 +1,66 @@
-# React + Vite
+# 🐶 3D Dog Animation Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a 3D web project I built using React to explore how 3D models and animations work in a real browser environment. Instead of creating a normal UI, I wanted to try something more interactive and visually engaging.
 
-Currently, two official plugins are available:
+## 🚀 About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In this project, a 3D dog model is rendered with smooth animations directly in the browser. The focus was not just on showing a model, but on creating a clean and interactive experience.
 
-## React Compiler
+I worked on camera angles, lighting, and positioning so the model looks natural and smooth. I also made sure the website is fully responsive, so it works properly on mobile, tablet, and desktop.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is deployed online, so anyone can access and experience it easily.
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 https://3-d-dog-ten.vercel.app/
+
+## 🛠️ Tech Stack
+
+- React  
+- Three.js  
+- @react-three/fiber  
+- @react-three/drei  
+- Vercel  
+
+## ✨ Features
+
+- Real-time 3D dog rendering in browser  
+- Smooth animations and transitions  
+- Fully responsive across devices  
+- Clean and minimal UI  
+- Fast loading and optimized performance  
+- Live deployed project  
+
+## 📦 Installation
+
+To run this project locally:
+
+```bash
+git clone https://github.com/madhaviporte/3D-DOG.git
+cd 3D-DOG
+npm install
+npm run dev
+```
+
+## 💡 What I Learned
+
+While building this project, I learned:
+
+- How 3D rendering works inside a React app  
+- Basics of camera, lighting, and scene setup  
+- Handling 3D models efficiently  
+- Making a responsive 3D layout  
+- Improving user experience using animations  
+
+## 🚀 Future Improvements
+
+- Add more interactions (hover / click effects)  
+- Multiple 3D models or scenes  
+- Better user controls  
+- Add sound effects for better experience  
+
+## 🙌 Final Thoughts
+
+This project was a great learning experience for me because it pushed me beyond traditional frontend development. Working with 3D gave me a new perspective on how creative web development can be.
+
+I’m excited to explore more and build even better interactive projects in the future.
