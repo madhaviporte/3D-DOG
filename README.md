@@ -34,6 +34,8 @@ The project is deployed online, so anyone can access and experience the 3D anima
 ## 📦 Installation
 
 To run this project locally:
+
+
 https://github.com/madhaviporte/3D-DOG.git
 cd your-repo-name  
 npm install  
